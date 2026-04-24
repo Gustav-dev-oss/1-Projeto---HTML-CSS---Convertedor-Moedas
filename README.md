@@ -19,11 +19,12 @@ Como organizar elementos dentro de uma div.
 
 Diferença entre estados de inputs, como o uso do atributo readonly para resultados.
 
-Importância do reset básico de margens e preenchimentos (* { margin: 0; padding: 0; }).
-
 * Próximos Passos
 Aplicar Flexbox para melhorar o alinhamento dos elementos.
 
 Implementar a lógica de conversão real utilizando JavaScript.
 
 Adicionar consumo de uma API de cotações em tempo real.
+
+<img width="1913" height="910" alt="image" src="https://github.com/user-attachments/assets/2b24a331-ac01-4978-afd8-9cd3567fae9e" />
+
